@@ -24,4 +24,4 @@ averageValue = sum/numbers
 
 print(maxValue)
 print(minValue)
-print(averageValue)
+print(averageValue )
